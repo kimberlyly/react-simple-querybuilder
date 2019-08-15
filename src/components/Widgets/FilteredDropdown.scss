@@ -1,0 +1,18 @@
+.filtered-dropdown {
+  border: 1px solid black;
+  margin-top: 0px;
+  list-style: none;
+  padding-left: 2px;
+
+  li:focus, li:hover {
+    background-color: #ccc;
+  }
+}
+
+.close-dropdown {
+  display: none;
+}
+
+.open-dropdown {
+  display: inline-block;
+}

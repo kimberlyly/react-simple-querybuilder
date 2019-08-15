@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/jest": "^24.0.17",
+    "@types/node": "^12.7.1",
+    "@types/react": "^16.9.1",
+    "@types/react-dom": "^16.8.5",
+    "keycode-js": "^1.0.4",
+    "node-sass": "^4.12.0",
+    "office-ui-fabric-react": "^7.22.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.0"
+    "react-scripts": "3.1.0",
+    "typescript": "^3.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
